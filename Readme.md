@@ -4,6 +4,7 @@
 - nginx => https://github.com/brandonwamboldt/sublime-nginx
 - docker => https://github.com/domeide/sublime-docker
 - json => https://github.com/dzhibas/SublimePrettyJson
+- toml -> https://github.com/lmno/TOML
 
 # themes
 - https://github.com/equinusocio/material-theme
@@ -16,5 +17,11 @@
 - go -> https://github.com/DisposaBoy/GoSublime
 - nodejs -> https://github.com/tanepiper/SublimeText-Nodejs
 - vue -> https://github.com/vuejs/vue-syntax-highlight
+- babel -> https://github.com/babel/babel-sublime
+- eslint -> https://github.com/SublimeLinter/SublimeLinter-eslint
+- react -> https://github.com/facebookarchive/sublime-react
+
+# other
+- 分屏 https://github.com/SublimeText/Origami
 
 
