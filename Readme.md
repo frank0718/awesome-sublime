@@ -12,7 +12,11 @@
 - https://github.com/thinkpixellab/flatland
 - https://github.com/buymeasoda/soda-theme
 
-∏
+# color
+- Solarized https://github.com/altercation/solarized 
+- molokai https://github.com/tomasr/molokai
+
+
 # autocomplete 
 - https://github.com/SublimeCodeIntel/SublimeCodeIntel
 
