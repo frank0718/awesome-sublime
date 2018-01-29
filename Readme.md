@@ -9,7 +9,10 @@
 # themes
 - https://github.com/equinusocio/material-theme
 - https://github.com/kkga/spacegray
+- https://github.com/thinkpixellab/flatland
+- https://github.com/buymeasoda/soda-theme
 
+∏
 # autocomplete 
 - https://github.com/SublimeCodeIntel/SublimeCodeIntel
 
@@ -23,6 +26,7 @@
 
 # other
 - 分屏 https://github.com/SublimeText/Origami
-
+- 侧边增强 SideBarEnhancements   https://github.com/SideBarEnhancements-org/SideBarEnhancements
+- fileicon  https://github.com/ihodev/a-file-icon
 - 
 
